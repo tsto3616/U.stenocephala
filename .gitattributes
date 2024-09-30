@@ -4,7 +4,7 @@
 
 # The default for text files
 *.cpp    zos-working-tree-encoding=ibm-1047
-*.md linguist-language=R     zos-working-tree-encoding=iso8859-1
+*.md     zos-working-tree-encoding=iso8859-1
 
 # Binary files
 *.jpg    binary
