@@ -32,7 +32,7 @@ These control genomes vary greatly in lifecycle and pathogenic potential, as sho
 
 ### Studying the ESPs of *Uncinaria stenocephala*: 
 
-Two approaches
+Two approaches,
 
 DOW, C., W. F. JARRETT, F. W. JENNINGS, W. I. McINTYRE, and W. MULLIGAN. 1959. “The production of active immunity against the canine hookworm Uncinaria stenocephala.” *Journal of the American Veterinary Medical Association* 135 (October): 407–11.
 
