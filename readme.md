@@ -1,6 +1,10 @@
 ---
-bibliography: readme.bib
+bibliography: references.bib
 ---
+
+```         
+--- output: readme.md bibliography: references.bib   ---
+```
 
 # Navigating this repository:
 
@@ -12,7 +16,7 @@ U. stenocephala is the most common hookworm of European dogs (Martinez-Moreno et
 
 # Can genomics establish pathogenicity?
 
-The seminal review by @viney2018a establishes three pipelines for the identification of mechanisms believed to underline the evolution of parasitism. These approaches are not mutually exclusive and consist of:
+The seminal review by @viney2018 establishes three pipelines for the identification of mechanisms believed to underline the evolution of parasitism. These approaches are not mutually exclusive and consist of:
 
 1.  Compare free living and parasitic life cycles of different species.
 2.  Compare free living and parasitic life cycles within the same species, applying transcriptomics to observe the expression patterns of certain gene families.
@@ -22,7 +26,9 @@ Although this study focuses on the pathogenicity rather than the evolution of pa
 
 ### Comparing a variety of pathogenic states, through genomics:
 
-The first pipeline can easily be adapted to the study of pathogenic potential and or mechanisms. Reflecting upon a review of Nematoda and the associated taxonomy [@ahmed2022b], it was decided that of the order, Rhabditina, three families serve as suitable comparisons for the study of *U. stenocephala* and its pathogenic potential. These three families are Ancylostomatidae, Chabertidae and Strongylidae. Although other families are suspected to be closely related to *U. stenocephala*, these three families are sufficient in their diverse life cycles and pathogenic mechanisms. Nematodes chosen for genomic comparisons are limited to species with their entire genome sequenced, greatly limiting the list of available comparisons. Of the family Ancylostomatidae, four species of hookworms were chosen - these were *Ancylostoma caninum, Ancylostoma ceylaniucm, Ancylostoma duodenale* and *Necator americanus*. One species (*Oesophagostomum dentatum*) of Chabertidae and two species (*Cyclicostephanus goldi* and *Strongylus vulgarus*) of Strongylidae were also selected for comparisons. All seven comparative genomes will serve as controls, used to study the expansion and shrinking of gene families. These gene families will be compared with existing literature, with the hopes of identifying a role for each suspected pathogenic gene family. If associations with pathogenicity can be established, these gene families will then be compared to *U. stenocephala* in order to study the expansion or break down of gene families.
+The first pipeline can easily be adapted to the study of pathogenic potential and or mechanisms. Reflecting upon a review of Nematoda and the associated taxonomy
+
+it was decided that of the order, Rhabditina, three families serve as suitable comparisons for the study of *U. stenocephala* and its pathogenic potential. These three families are Ancylostomatidae, Chabertidae and Strongylidae. Although other families are suspected to be closely related to *U. stenocephala*, these three families are sufficient in their diverse life cycles and pathogenic mechanisms. Nematodes chosen for genomic comparisons are limited to species with their entire genome sequenced, greatly limiting the list of available comparisons. Of the family Ancylostomatidae, four species of hookworms were chosen - these were *Ancylostoma caninum, Ancylostoma ceylaniucm, Ancylostoma duodenale* and *Necator americanus*. One species (*Oesophagostomum dentatum*) of Chabertidae and two species (*Cyclicostephanus goldi* and *Strongylus vulgarus*) of Strongylidae were also selected for comparisons. All seven comparative genomes will serve as controls, used to study the expansion and shrinking of gene families. These gene families will be compared with existing literature, with the hopes of identifying a role for each suspected pathogenic gene family. If associations with pathogenicity can be established, these gene families will then be compared to *U. stenocephala* in order to study the expansion or break down of gene families.
 
 These control genomes vary greatly in lifecycle and pathogenic potential, as shown in Table 1. The hookworms *A. caninum, A. ceylanicum* and *A. duodenale* will serve as controls for high rates of haemorrhaging and blood consumption, with relatively little pathology otherwise. *N. americanus* will be used for an intermediate control, whereby minimal blood loss and blood consumption is observed. *O. dentatum* will serve as a non pathogenic control, with minimal pathogenesis. *C. goldi* will remain as the immunopathology positive control. *S. vulgaris* is a control for significant haemorrhaging in the absence of significant blood consumption. Further justification of this experimental design and greater depth and detail of the life cycles of each species will be included in the Genomics and Transcriptomics branch.
 
@@ -32,7 +38,13 @@ These control genomes vary greatly in lifecycle and pathogenic potential, as sho
 
 ### Studying the ESPs of *Uncinaria stenocephala*:
 
-Two approaches, will be utilised
+A hybrid approach will be entailed for the identificaiton of potential ESPs, which are frequently identified as pathogenic agents of parasites **REF**. This hybrid approach involves combining transcriptomics and screening for the molecular weight of known ESPs of *U. stenocephala* to identify:
+
+1.  Gene families relatively over or under expressed.
+2.  ESPs as determined by proteomics, through the estimation of molecular weights gathered from transcriptomic data.
+3.  The relative expression of ESPs detected through proteomics.
+
+This hybrid approach is ideal to circumevent the mismatch between transcritpomic expression levels and protein levels - observed fior nematode ESPs **REF**. In addition, it avoids assumptions of over expressed genes representing ESPs. It also enables the detection fo ESPs that are infrequently expressed, perhaps in response to the move towards a symbonic relationship - rather than a pathogenic relationship with the host. The most significant of all benefits; however, is its ability to provide the foundations for the quantification of ESPs in the absence of proteomic measures of abundance. This would be of great benefit to the study of *U. stenocephala* considering that the only two proteomic studies of *U. stenocephala* **REFS** [@ahmedPhylogenomicAnalysisPhylum2022] fail to quantify the abundance of ESPs. testing 1234
 
 DOW, C., W. F. JARRETT, F. W. JENNINGS, W. I. McINTYRE, and W. MULLIGAN. 1959. “The production of active immunity against the canine hookworm Uncinaria stenocephala.” *Journal of the American Veterinary Medical Association* 135 (October): 407–11.
 
