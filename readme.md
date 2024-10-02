@@ -33,7 +33,7 @@ it was decided that of the order, Rhabditina, three families serve as suitable c
 
 These control genomes vary greatly in lifecycle and pathogenic potential, as shown in Table 1. The hookworms *A. caninum, A. ceylanicum* and *A. duodenale* will serve as controls for high rates of haemorrhaging and blood consumption, with relatively little pathology otherwise. *N. americanus* will be used for an intermediate control, whereby minimal blood loss and blood consumption is observed. *O. dentatum* will serve as a non pathogenic control, with minimal pathogenesis. *C. goldi* will remain as the immunopathology positive control. *S. vulgaris* is a control for significant haemorrhaging in the absence of significant blood consumption. Further justification of this experimental design and greater depth and detail of the life cycles of each species will be included in the Genomics and Transcriptomics branch.
 
-Table 1: A brief visual representation of the controls, compared to our hookworm of interest *Uncinaria stenocephala*. Red represents drastic pathology, orange represents intermediate and yellow represents minimal pathology. ??? denotes a suspected/ unevaluated effect of pathology.
+![Table 1: A brief visual representation of the controls, compared to our hookworm of interest Uncinaria stenocephala. Red represents drastic pathology, orange represents intermediate and yellow represents minimal pathology. ??? denotes a suspected/ unevaluated effect of pathology.](images/Picture1.png)
 
 # Studying the ESPs of *Uncinaria stenocephala*:
 
