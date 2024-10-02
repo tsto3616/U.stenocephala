@@ -2,7 +2,6 @@
 title: "Welcome"
 author: "Thomas Stocker"
 date: "2-10-2024"
-output: html_document
 bibliography: references.bib
 ---
 
