@@ -2,10 +2,9 @@
 title: "Welcome"
 author: "Thomas Stocker"
 date: "2-10-2024"
-bibliography: references.bib
+bibliography: readme.bib
+bookdown::html_document2: default
 ---
-
-testing4
 
 # Navigating this repository:
 
@@ -13,7 +12,7 @@ Welcome to the repository for the study of *Uncinaria stenocephala* genomics. Wi
 
 # Why *Uncinaria stenocephala*?
 
-*U. stenocephala* is the most common hookworm of European dogs (Martinez-Moreno et al. 2007), despite this, this hookworm remains vastly understudied. Much of this species remains unknown, particularly its pathogenic potential - the focus of this study. Among much of the literature it is considered to be clinically irrelevant. This assumption possibly originated from the unpublished conclusions set out by Miller (1968), in which the authors concluded that the blood loss from infection and haemotophagy of *U. stenocephala* is negligible. However, there is significant evidence to suggest that there is immunopathology associated with infection (Gibbs 1958; DOW et al. 1959; Gorski et al. 1999), undermining the claims of clinical irrelevance. If this parasite proves to be pathogenic, there must be reconsideration of the current hookworm management practices of dogs - particularly in temperate regions. Within temperate regions canine hookworms are considered to be exclusively consisting of *U. stenocephala* infections, thus in temperate regions hookworm infections are considered to be clinically irrelevant.
+*U. stenocephala* is the most common hookworm of European dogs (Martinez-Moreno et al. 2007), despite this, this hookworm remains vastly understudied. Much of this species remains unknown, particularly its pathogenic potential - the focus of this study. Among much of the literature it is considered to be clinically irrelevant. This assumption possibly originated from the unpublished conclusions set out by @millerPathogenesisImmunityHookworm1968, in which the authors concluded that the blood loss from infection and haemotophagy of *U. stenocephala* is negligible. However, there is significant evidence to suggest that there is immunopathology associated with infection (Gibbs 1958; DOW et al. 1959; Gorski et al. 1999), undermining the claims of clinical irrelevance. If this parasite proves to be pathogenic, there must be reconsideration of the current hookworm management practices of dogs - particularly in temperate regions. Within temperate regions canine hookworms are considered to be exclusively consisting of *U. stenocephala* infections, thus in temperate regions hookworm infections are considered to be clinically irrelevant.
 
 # Can genomics establish pathogenicity?
 
@@ -33,7 +32,7 @@ it was decided that of the order, Rhabditina, three families serve as suitable c
 
 These control genomes vary greatly in lifecycle and pathogenic potential, as shown in Table 1. The hookworms *A. caninum, A. ceylanicum* and *A. duodenale* will serve as controls for high rates of haemorrhaging and blood consumption, with relatively little pathology otherwise. *N. americanus* will be used for an intermediate control, whereby minimal blood loss and blood consumption is observed. *O. dentatum* will serve as a non pathogenic control, with minimal pathogenesis. *C. goldi* will remain as the immunopathology positive control. *S. vulgaris* is a control for significant haemorrhaging in the absence of significant blood consumption. Further justification of this experimental design and greater depth and detail of the life cycles of each species will be included in the Genomics and Transcriptomics branch.
 
-![Table 1: A brief visual representation of the controls, compared to our hookworm of interest Uncinaria stenocephala. Red represents drastic pathology, orange represents intermediate and yellow represents minimal pathology. ??? denotes a suspected/ unevaluated effect of pathology.](images/Picture1.png)
+![Table 1: A brief visual representation of the controls, compared to our hookworm of interest Uncinaria stenocephala. Red represents drastic pathology, orange represents intermediate and yellow represents minimal pathology. ??? denotes a suspected/ un-evaluated effect of pathology.](images/Picture1.png)
 
 # Studying the ESPs of *Uncinaria stenocephala*:
 
@@ -44,13 +43,3 @@ A hybrid approach will be entailed for the identificaiton of potential ESPs, whi
 3.  The relative expression of ESPs detected through proteomics.
 
 This hybrid approach is ideal to circumevent the mismatch between transcritpomic expression levels and protein levels - observed fior nematode ESPs REF. In addition, it avoids assumptions of over expressed genes representing ESPs. It also enables the detection fo ESPs that are infrequently expressed, perhaps in response to the move towards a symbonic relationship - rather than a pathogenic relationship with the host. The most significant of all benefits; however, is its ability to provide the foundations for the quantification of ESPs in the absence of proteomic measures of abundance. This would be of great benefit to the study of *U. stenocephala* considering that the only two proteomic studies of *U. stenocephala* REFS fail to quantify the abundance of ESPs. testing 1234
-
-DOW, C., W. F. JARRETT, F. W. JENNINGS, W. I. McINTYRE, and W. MULLIGAN. 1959. “The production of active immunity against the canine hookworm Uncinaria stenocephala.” Journal of the American Veterinary Medical Association 135 (October): 407–11.
-
-Gibbs, H. C. 1958. “On the Gross and Microscopic Lesions Produced by the Adults and Larvae of Dochmoides Stenocephala (Raillet, 1884) in the Dog.” Can J Comp Med Vet Sci 22 (11): 382–85. <https://www.ncbi.nlm.nih.gov/pubmed/17649092>.
-
-Gorski, P, M Krawiec, JM Behnke, and H Wędrychowicz. 1999. “Mast Cell, Eosinophil and IgE Antibody Response of BALB/c Mice to Percutaneous Infection with the Canine Hookworm Uncinaria Stenocephala.”
-
-Martinez-Moreno, F. J., S. Hernandez, E. Lopez-Cobos, C. Becerra, I. Acosta, and A. Martinez-Moreno. 2007. “Estimation of Canine Intestinal Parasites in Cordoba (Spain) and Their Risk to Public Health.” Vet Parasitol 143 (1): 7–13. <https://doi.org/10.1016/j.vetpar.2006.08.004>.
-
-Miller, T. A. 1968. “Pathogenesis and Immunity in Hookworm Infection.” Trans R Soc Trop Med Hyg 62 (4): 473–89. [https://doi.org/10.1016/0035-9203(68)90130-2](https://doi.org/10.1016/0035-9203(68)90130-2){.uri}.
