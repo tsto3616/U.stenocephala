@@ -1,7 +1,6 @@
----
-bibliography: references.bib
-output: html_document
----
+---\
+\<!DOCTYPE html\> \<html lang="en"\> …\
+—
 
 # Navigating this repository:
 
