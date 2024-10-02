@@ -1,14 +1,11 @@
 ---
 bibliography: references.bib
+output: html_document
 ---
-
-```         
---- output: readme.md bibliography: references.bib   ---
-```
 
 # Navigating this repository:
 
-Welcome to the repository for the study of *Uncinaria stenocephala* genomics. Within this repository, we focus primarily on *U. stenocephala* and its genomics and or transcriptomics; however, we draw on the genomics of four hookworms (Ancylostomatidae), two members of Strongylidae and one member of Chabertidae. These seven comparative genomes were selected for their varied lifecycles and pathogenesis, as well as their close relationship with U. stenocephala. The contents of this repository as split into four sections: (1) sampling and sequencing, (2) data preparation and annotation, (3) genomics and transcriptomics and (4) pipeline development and practicing.
+Welcome to the repository for the study of *Uncinaria stenocephala* genomics. Within this repository, we focus primarily on *U. stenocephala* and its genomics and or transcriptomics; however, we draw on the genomics of four hookworms (Ancylostomatidae), two members of Strongylidae and one member of Chabertidae. These seven comparative genomes were selected for their varied lifecycles and pathogenesis, as well as their close relationship with U. stenocephala. The contents of this repository as split into four sections: (1) sampling and sequencing, (2) data preparation and annotation, (3) genomics and transcriptomics and (4) pipeline development and practicing. vvvvvvvvvvv
 
 # Why *Uncinaria stenocephala*?
 
@@ -16,7 +13,7 @@ U. stenocephala is the most common hookworm of European dogs (Martinez-Moreno et
 
 # Can genomics establish pathogenicity?
 
-The seminal review by @viney2018 establishes three pipelines for the identification of mechanisms believed to underline the evolution of parasitism. These approaches are not mutually exclusive and consist of:
+The seminal review by [@vineyGenomicBasisNematode2018] establishes three pipelines for the identification of mechanisms believed to underline the evolution of parasitism. These approaches are not mutually exclusive and consist of:
 
 1.  Compare free living and parasitic life cycles of different species.
 2.  Compare free living and parasitic life cycles within the same species, applying transcriptomics to observe the expression patterns of certain gene families.
@@ -44,7 +41,7 @@ A hybrid approach will be entailed for the identificaiton of potential ESPs, whi
 2.  ESPs as determined by proteomics, through the estimation of molecular weights gathered from transcriptomic data.
 3.  The relative expression of ESPs detected through proteomics.
 
-This hybrid approach is ideal to circumevent the mismatch between transcritpomic expression levels and protein levels - observed fior nematode ESPs **REF**. In addition, it avoids assumptions of over expressed genes representing ESPs. It also enables the detection fo ESPs that are infrequently expressed, perhaps in response to the move towards a symbonic relationship - rather than a pathogenic relationship with the host. The most significant of all benefits; however, is its ability to provide the foundations for the quantification of ESPs in the absence of proteomic measures of abundance. This would be of great benefit to the study of *U. stenocephala* considering that the only two proteomic studies of *U. stenocephala* **REFS** [@ahmedPhylogenomicAnalysisPhylum2022] fail to quantify the abundance of ESPs. testing 1234
+This hybrid approach is ideal to circumevent the mismatch between transcritpomic expression levels and protein levels - observed fior nematode ESPs **REF**. In addition, it avoids assumptions of over expressed genes representing ESPs. It also enables the detection fo ESPs that are infrequently expressed, perhaps in response to the move towards a symbonic relationship - rather than a pathogenic relationship with the host. The most significant of all benefits; however, is its ability to provide the foundations for the quantification of ESPs in the absence of proteomic measures of abundance. This would be of great benefit to the study of *U. stenocephala* considering that the only two proteomic studies of *U. stenocephala* **REFS** fail to quantify the abundance of ESPs. testing 1234
 
 DOW, C., W. F. JARRETT, F. W. JENNINGS, W. I. McINTYRE, and W. MULLIGAN. 1959. “The production of active immunity against the canine hookworm Uncinaria stenocephala.” *Journal of the American Veterinary Medical Association* 135 (October): 407–11.
 
