@@ -1,6 +1,6 @@
----\
-\<!DOCTYPE html\> \<html lang="en"\> …\
-—
+---
+bibliography: references.bib
+---
 
 # Navigating this repository:
 
@@ -12,7 +12,9 @@ U. stenocephala is the most common hookworm of European dogs (Martinez-Moreno et
 
 # Can genomics establish pathogenicity?
 
-The seminal review by [@vineyGenomicBasisNematode2018] establishes three pipelines for the identification of mechanisms believed to underline the evolution of parasitism. These approaches are not mutually exclusive and consist of:
+The seminal review by @vineyGenomicBasisNematode2018
+
+[@vineyGenomicBasisNematode2018] establishes three pipelines for the identification of mechanisms believed to underline the evolution of parasitism. These approaches are not mutually exclusive and consist of:
 
 1.  Compare free living and parasitic life cycles of different species.
 2.  Compare free living and parasitic life cycles within the same species, applying transcriptomics to observe the expression patterns of certain gene families.

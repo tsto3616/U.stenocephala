@@ -1,0 +1,30 @@
+[
+    {
+        "DOI": "10.1093/bfgp/elx010",
+        "ISSN": "2041-2657 (Electronic) 2041-2649 (Print) 2041-2649 (Linking)",
+        "URL": "https://www.ncbi.nlm.nih.gov/pubmed/28472353",
+        "author": [
+            {
+                "family": "Viney",
+                "given": "M."
+            }
+        ],
+        "container-title": "Brief Funct Genomics",
+        "id": "vineyGenomicBasisNematode2018",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2018
+                ]
+            ]
+        },
+        "key": "Y96GS78Z",
+        "libraryid": "1",
+        "page": "8-14",
+        "providerkey": "Zotero",
+        "title": "The genomic basis of nematode parasitism",
+        "type": "Journal",
+        "volume": "17"
+    }
+]
